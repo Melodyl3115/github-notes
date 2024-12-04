@@ -1,4 +1,7 @@
-Git
-Github
-Repo
-Commit
+Git: git is a version control software.
+
+Github: github is a website where you can do projects that have version control on them.
+
+Repo: you can make a repo where you can add files to it
+
+Commit: you can make changes to the files with the commit. commit is like a save button for your projects and files.
